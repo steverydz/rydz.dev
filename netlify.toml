@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://rydz.netlify.app"
+  to = "https://rydz.dev"
+  status = 301
+  force = true
